@@ -1,4 +1,4 @@
-module github.com/techxmind/go-gecko
+module github.com/duxiu-robot/go-gecko
 
 go 1.15
 

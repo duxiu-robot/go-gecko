@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"log"
 
-	gecko "github.com/techxmind/go-gecko/v3"
-	geckoTypes "github.com/techxmind/go-gecko/v3/types"
+	gecko "github.com/duxiu-robot/go-gecko/v3"
+	geckoTypes "github.com/duxiu-robot/go-gecko/v3/types"
 )
 
 func main() {
